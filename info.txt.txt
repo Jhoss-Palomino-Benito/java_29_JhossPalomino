@@ -1,0 +1,7 @@
+Lista de actividades
+
+ - Actividad 1:Crear una calculadora usando JFrame
+ - Actividad 2: Crear una clase con atributos y métodos
+ - Actividad 3: Crear una clase con atributos y métodos con valor de retorno
+ - Actividad 4: Crear una clase con atributos y métodos con parámetros
+ - Actividad 5: Crear una clase con atributos y método constructor.
