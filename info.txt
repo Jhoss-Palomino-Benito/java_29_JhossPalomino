@@ -1,3 +1,6 @@
+De: Jhoss Palomino Benito
+Curso: Programacion Orientado a Objetos
+
 Lista de ejercicios
 
 - Actividad 2: Crear una clase con atributos y métodos
