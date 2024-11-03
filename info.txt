@@ -7,3 +7,12 @@ Lista de ejercicios
 - Actividad 3: Crear una clase con atributos y métodos con valor de retorno
 - Actividad 4: Crear una clase con atributos y métodos con parámetros
 - Actividad 5: Crear una clase con atributos y método constructor.
+
+En: poo_29_JhossPalomino
+
+-------------------------------------
+
+Tambien se incluyen los siguientes ejemplos de C.R.U.D en java:
+  - Biblioteca (incluye uso de multiples ventanas);
+  - Persona
+  - Formulario
